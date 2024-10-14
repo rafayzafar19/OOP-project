@@ -1,0 +1,4 @@
+Muhammad Hussain,29004,3.8,2027,hussain@iba,Pre-engineering,CAL-2,STATISTICS,OOP
+Muhammad Rafay Zafar,29014,3.6,2027,rafay@iba,Biology,CHEMISTRY,GENETICS,MOLECULAR-BIOLOGY,ECOLOGY
+Ahmed Hassan Khan,29015,3.2,2027,ahmed@iba,Commerce
+Muhammad Anis,29017,3.5,2027,anis@iba,Social-sciences,LAW-1,HISTORY,SPEECH COMM
